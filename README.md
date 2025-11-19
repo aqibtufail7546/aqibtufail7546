@@ -1,5 +1,5 @@
 
-## Hi, I'm aqib 🌟
+## Hi, I'm Muhammad Aqib 🌟
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aqib_tufail_786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aqibtufail7546) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aqibtufail3456) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aqibtufail3456@gmail.com) 
